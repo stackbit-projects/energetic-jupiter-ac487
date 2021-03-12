@@ -71,3 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://energetic-jupiter-ac487.netlify.app'
